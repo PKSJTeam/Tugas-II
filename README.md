@@ -120,5 +120,17 @@ Dasar teori :
 
       dengan command sudo chown -R :www-data /var/www/html/wp-content/uploads
 
-    3.2 Instalasi SQLmap a. download sqlmap dengan command wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
+    3.2 Instalasi SQLmap
+    
+    a. Download sqlmap 
+        dengan command wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
 
+    3.3 Instalasi League Manager
+    
+    a. 
+    
+    b. 
+    
+    c. 
+    
+    d. 
