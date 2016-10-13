@@ -150,3 +150,22 @@ Dasar teori :
    f.Plugin telah aktif
 
 ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
+
+
+   Cek apakah terdapat koneksi
+   
+   1.xx
+   
+   
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/1.-Cek-adakah-koneksi/SQL-LM-1.0.png)
+
+   2.xx
+   
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/1.-Cek-adakah-koneksi/SQL-LM-1.1a.png)
+
+   3.xxx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/1.-Cek-adakah-koneksi/SQL-LM-1.1b.png)
+
+
+
