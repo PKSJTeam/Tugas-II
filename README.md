@@ -127,10 +127,14 @@ Dasar teori :
 
     3.3 Instalasi League Manager
     
-    a. 
+    a.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
     
-    b. 
+    b.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/1.jpg)
     
-    c. 
+    c.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/2.jpg)
     
-    d. 
+    d.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/3.jpg)
+    
+    e.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/4.jpg)
+    
+    f.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
