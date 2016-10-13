@@ -29,10 +29,10 @@ Dasar teori :
    • Kali Linux adalah distribusi berlandasan distribusi Debian GNU/Linux untuktujuanforensik digital dan di gunakan untuk pengujian penetrasi, yang dipelihara dan didanai oleh Offensive Security. Kali juga dikembangkan oleh Offensive Security sebagai penerus BackTrack Linux. Salah satu distribusi Linux tingkat lanjut untuk Penetration Testingdan audit keamanan. Distroinidulunyaadalahdistro Backtrack, yang kemudian memutuskan mengganti nama distronya tersebut menjadi Kali Linux di versi terbarunya. Kali Linux ini akan dijadikan sebagai standarisasi distro Linux yang digunakan untuk percobaan penetrasi.
 
     Tools yang digunakan :
+    
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/wordp.png)
 
-![alt tag]()
-
-   • Wordpress adalah sebuah aplikasi sumber terbuka (open source) yang sangat populer digunakan sebagai mesin blog (blog engine). WordPress dibangun dengan bahasa pemrograman PHP dan basis data (database) MySQL. PHP dan MySQL, keduanya merupakanperangkat lunak sumber terbuka (open source software).
+   • Wordpress adalah sebuah aplikasi sumber terbuka (open source) yang sangat populer digunakan sebagai mesin blog (blog engine). WordPress dibangun dengan bahasa pemrograman PHP dan basis data (database) MySQL. PHP dan MySQL, keduanya merupakan perangkat lunak sumber terbuka (open source software).
 
 ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/video.jpg)
 
@@ -55,6 +55,8 @@ Dasar teori :
     a. Masuk ke user root MySQL
 
      dengan command mysql -u root -p
+
+
 
     b. Melakukan proses download Wordpress
 
