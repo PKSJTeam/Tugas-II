@@ -19,22 +19,34 @@ Dasar teori :
     OS yang digunakan
 
 
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/ubuntu1.jpg)
 
-• Ubuntu Server adalah salah satu varian dari distro linux Ubuntu. Dalam pembahasan kali ini dan pembahasan selanjutnya, saya akan membahas tentang perintah CLI di Linux dan seting server menggunakan ubuntu 12.10. Namun sebelum membahas lebih jauh tentang Ubuntu server akan saya kenalkan dulu apa itu ubuntu server dalam format FAQ sehingga lebih mudah di pahami.
 
-• Kali Linux adalah distribusi berlandasan distribusi Debian GNU/Linux untuktujuanforensik digital dan di gunakan untuk pengujian penetrasi, yang dipelihara dan didanai oleh Offensive Security. Kali juga dikembangkan oleh Offensive Security sebagai penerus BackTrack Linux. Salah satu distribusi Linux tingkat lanjut untuk Penetration Testingdan audit keamanan. Distroinidulunyaadalahdistro Backtrack, yang kemudian memutuskan mengganti nama distronya tersebut menjadi Kali Linux di versi terbarunya. Kali Linux ini akan dijadikan sebagai standarisasi distro Linux yang digunakan untuk percobaan penetrasi.
+   • Ubuntu Server adalah salah satu varian dari distro linux Ubuntu. Dalam pembahasan kali ini dan pembahasan selanjutnya, saya akan membahas tentang perintah CLI di Linux dan seting server menggunakan ubuntu 12.10. Namun sebelum membahas lebih jauh tentang Ubuntu server akan saya kenalkan dulu apa itu ubuntu server dalam format FAQ sehingga lebih mudah di pahami.
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/kali.png)
+
+   • Kali Linux adalah distribusi berlandasan distribusi Debian GNU/Linux untuktujuanforensik digital dan di gunakan untuk pengujian penetrasi, yang dipelihara dan didanai oleh Offensive Security. Kali juga dikembangkan oleh Offensive Security sebagai penerus BackTrack Linux. Salah satu distribusi Linux tingkat lanjut untuk Penetration Testingdan audit keamanan. Distroinidulunyaadalahdistro Backtrack, yang kemudian memutuskan mengganti nama distronya tersebut menjadi Kali Linux di versi terbarunya. Kali Linux ini akan dijadikan sebagai standarisasi distro Linux yang digunakan untuk percobaan penetrasi.
 
     Tools yang digunakan :
 
-• Wordpress adalah sebuah aplikasi sumber terbuka (open source) yang sangat populer digunakan sebagai mesin blog (blog engine). WordPress dibangun dengan bahasa pemrograman PHP dan basis data (database) MySQL. PHP dan MySQL, keduanya merupakanperangkat lunak sumber terbuka (open source software).
+![alt tag]()
 
-• Video player 1.5.16 adalah istilah yang biasa digunakan untuk mendeskripsikan software komputer untuk memainkan file video. Sebagian besar media player dapat menampilkan sejumlah format media, baik file audio ataupun video, sedangkan yang khusus untuk memainkan video disebut dengan video player.
+   • Wordpress adalah sebuah aplikasi sumber terbuka (open source) yang sangat populer digunakan sebagai mesin blog (blog engine). WordPress dibangun dengan bahasa pemrograman PHP dan basis data (database) MySQL. PHP dan MySQL, keduanya merupakanperangkat lunak sumber terbuka (open source software).
 
-• League Manager adalah plugin yang digunakan untuk mendesain dan memanajemen sport league dan untuk menampilkan nya pada blog.
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/video.jpg)
 
-• XAMPP adalah software yang merupakan software web server apache yang di dalamnya sudah terdapat database seperti mysql, php dan masih banyak lagi. Kelebihan software web server XAMPP ini di banding dengan software web server lain adalah dalam satu kali install software ini telah sekaligus terinstall Apache Web Server, MySQL Database Server, PHP Support.
+   • Video player 1.5.16 adalah istilah yang biasa digunakan untuk mendeskripsikan software komputer untuk memainkan file video. Sebagian besar media player dapat menampilkan sejumlah format media, baik file audio ataupun video, sedangkan yang khusus untuk memainkan video disebut dengan video player.
 
-• SQLMap adalah tool open source yang di jalankan menggunakan command dan support untuk data base MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird, Sybase and SAP MaxDB.
+   • League Manager adalah plugin yang digunakan untuk mendesain dan memanajemen sport league dan untuk menampilkan nya pada blog.
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/xampp.png)
+
+   • XAMPP adalah software yang merupakan software web server apache yang di dalamnya sudah terdapat database seperti mysql, php dan masih banyak lagi. Kelebihan software web server XAMPP ini di banding dengan software web server lain adalah dalam satu kali install software ini telah sekaligus terinstall Apache Web Server, MySQL Database Server, PHP Support.
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/sqlmap_1.png)
+
+   • SQLMap adalah tool open source yang di jalankan menggunakan command dan support untuk data base MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird, Sybase and SAP MaxDB.
 
     Langkah Instalasi
 
