@@ -128,7 +128,8 @@ Dasar teori :
     3.3 Instalasi League Manager
     
     a.Login Admin
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
+    
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
     
     
     b.Halaman Web Admin
