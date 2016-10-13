@@ -168,4 +168,56 @@ Dasar teori :
 ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/1.-Cek-adakah-koneksi/SQL-LM-1.1b.png)
 
 
+Cek dari Data
 
+1.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.0.png)
+
+2.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1.png)
+
+3.xxx
+
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1a.png)
+
+4.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1b.png)
+
+
+5.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1c.png)
+
+6.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1d.png)
+
+7.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1e.png)
+
+
+8.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1f.png)
+
+
+9.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1g.png)
+
+10.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1h.png)
+
+11.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1i.png)
+
+12.xx
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1j.png)
