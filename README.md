@@ -126,15 +126,20 @@ Dasar teori :
         dengan command wget 'https://github.com/sqlmapproject/sqlmap/tarball/master' --output-document=sqlmapproject-sqlmap-0.9-3671-gdcaad75.tar.gz
 
     3.3 Instalasi League Manager
+    Login Admin
+    a.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
     
-    A.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
+    Halaman Web Admin
+    b.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/1.jpg)
     
-    B.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/1.jpg)
+    Install Plugin Baru
+    c.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/2.jpg)
     
-    C.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/2.jpg)
+    Upload Plugin
+    d.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/3.jpg)
     
-    D.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/3.jpg)
+    Aktifkan Plugin
+    e.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/4.jpg)
     
-    E.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/4.jpg)
-    
-    F.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
+    Plugin telah aktif
+    f.![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
