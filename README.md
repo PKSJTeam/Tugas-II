@@ -221,3 +221,20 @@ Cek dari Data
 12.xx
 
 ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/2.-Cari-Data-Tabel/SQL-LM-2.1j.png)
+
+
+
+Cek Username Password
+
+1.h
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/3.-Cari-Username-Password/SQL-LM-3.1.png)
+
+2.u
+
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/3.-Cari-Username-Password/SQL-LM-3.2.png)
+
+3.h
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/SQL-Injection/League-Manager/3.-Cari-Username-Password/SQL-LM-3.3.png)
