@@ -131,22 +131,22 @@ Dasar teori :
     
 ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/0.jpg)
     
+   b.Halaman Web Admin
     
-    b.Halaman Web Admin
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/1.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/1.jpg)
     
+   c.Install Plugin Baru
     
-    c.Install Plugin Baru
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/2.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/2.jpg)
+        
+   d.Upload Plugin
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/3.jpg)
+     
+   e.Aktifkan Plugin
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/4.jpg)
     
-    
-    d.Upload Plugin
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/3.jpg)
-    
-    
-    e.Aktifkan Plugin
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/4.jpg)
-    
-    
-    f.Plugin telah aktif
-    ![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
+   f.Plugin telah aktif
+
+![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Image/Plugin/League-Manager/5.jpg)
